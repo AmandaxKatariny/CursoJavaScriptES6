@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "main": "index.js",
     "repository": "https://github.com/AmandaxKatariny/CursoJavaScriptES6.git",
-    "author": "Amanda Katariny <amanda.silva@sagatechbasil.com.br>",
+    "author": "Amanda Katariny <amandakata@outlook.com>",
     "license": "MIT",
     "dependencies": {
         "@babel/cli": "^7.8.4",

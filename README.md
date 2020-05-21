@@ -12,19 +12,19 @@
 3º - *Configuração do Babel*
 
         - Criar um arquivo '.babelrc'
-        - Adiciona configuração
-                - {"presets": ["@babel/preset-env"]}
+        - Adiciona configuração:
+          - {"presets": ["@babel/preset-env"]}
 
 4º - *Utilizando Classes*
 
         - Conceito das classes e como utilizá-las
-                - aula_classes.js
-                - aula_classes_function_static.js
+          - aula_classes.js
+          - aula_classes_function_static.js
 
 5º - *Manipulando e entendendo o conceito de Const & Let*
 
         - Diferença entre const e let e suas atribuições
-                - aula_const&let.js
+          - aula_const&let.js
 
 6º - ~~Aula - Operações em Array~~
 

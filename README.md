@@ -30,7 +30,7 @@
 
  - Diferença entre const e let e suas atribuições.
 
-   - disponível nos arquivos:
+   - disponível no arquivos:
      ```
         aula_const&let.js
      ```

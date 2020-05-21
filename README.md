@@ -17,16 +17,13 @@
 
 4º - *Utilizando Classes*
 
-        1. Conceito das classes e como utilizá-las
-           - aula_classes.js
-           - aula_classes_function_static.js
+        - Conceito das classes e como utilizá-las
+          - aula_classes.js
+          - aula_classes_function_static.js
 
 5º - *Manipulando e entendendo o conceito de Const & Let*
 
-        1. Diferença entre const e let e suas atribuições
-           - aula_const&let.js
+        - Diferença entre const e let e suas atribuições
+          - aula_const&let.js
 
 6º - ~~Aula - Operações em Array~~
-
-
-

@@ -30,9 +30,28 @@
 
  - Diferença entre const e let e suas atribuições.
 
-   - disponível no arquivos:
+   - disponível no arquivo:
      ```
         aula_const&let.js
      ```
 
-6º - ~~Aula - Operações em Array~~
+6º - *Operações com Arrays*
+
+- Aplicando varios conceitos e operções em arrays.
+  - disponível no arquivo:
+
+    ```
+      operacoes_em_vetores.js
+    ```
+
+7º - *Arrow Functions e Valores Padrão*
+
+- Transcrevendo funções simples para Arrow Functions e usando valores padrão para funções.
+
+  - disponível no arquivo:
+
+    ```
+      arrow_functions.js
+    ```
+
+8º - ~~Aula - Desestruração~~

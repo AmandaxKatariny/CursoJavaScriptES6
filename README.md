@@ -1,13 +1,14 @@
 # JavaScript - ES6 :heavy_check_mark:
 > Status do Projeto: *em construção* 
 
-## Curso RocketSeat - JavaScript ES6
-
-:trophy: *Pré-Requisitos*
+### Curso RocketSeat - JavaScript ES6
+  - [Curso JavaScript ES6](https://skylab.rocketseat.com.br/node/curso-java-script-es-6/)
+### *Pré-Requisitos*
 
   - [Node](https://nodejs.org/en/download/)
-  - [yarn](https://classic.yarnpkg.com/pt-BR/docs/install)
+  - [Yarn](https://classic.yarnpkg.com/pt-BR/docs/install)
 
+## Passo a Passo - Aulas
 
 :trophy: *Iniciar yarn dentro do projeto*
 

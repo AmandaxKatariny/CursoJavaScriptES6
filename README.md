@@ -1,5 +1,8 @@
 # JavaScript - ES6
+> Status do Projeto: *em construção* :heavy_check_mark:
+
 ## Curso RocketSeat - JavaScript ES6
+
 
 1º - *Instalação do node.js e yarn*
 
@@ -17,7 +20,7 @@
 
 4º - *Utilizando Classes*
 
-- Conceito das classes e como utilizá-las.
+:trophy: Conceito das classes e como utilizá-las.
 
   - disponível nos arquivos:
 
@@ -28,7 +31,7 @@
 
 5º - *Manipulando e entendendo o conceito de Const & Let*
 
- - Diferença entre const e let e suas atribuições.
+ :trophy: Diferença entre const e let e suas atribuições.
 
    - disponível no arquivo:
      ```
@@ -37,7 +40,7 @@
 
 6º - *Operações com Arrays*
 
-- Aplicando varios conceitos e operções em arrays.
+:trophy: Aplicando varios conceitos e operções em arrays.
   - disponível no arquivo:
 
     ```
@@ -46,7 +49,7 @@
 
 7º - *Arrow Functions e Valores Padrão*
 
-- Transcrevendo funções simples para Arrow Functions e usando valores padrão para funções.
+:trophy: Transcrevendo funções simples para Arrow Functions e usando valores padrão para funções.
 
   - disponível no arquivo:
 

@@ -54,4 +54,4 @@
       arrow_functions.js
     ```
 
-8º - ~~Aula - Desestruração~~
+8º - ~~Aula - Desestruturação~~
